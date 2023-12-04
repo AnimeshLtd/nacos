@@ -22,7 +22,14 @@
     <property name="charset" value="UTF-8"/>
     <property name="severity" value="error"/>
     <property name="fileExtensions" value="java, properties, xml"/>
-    
+
+    <module name="BeforeExecutionExclusionFileFilter">
+        <property name="fileNamePattern" value="DummyJunitDiffblueTest.java$"/>
+    </module>
+    <module name="BeforeExecutionExclusionFileFilter">
+        <property name="fileNamePattern" value="DiffblueDummyCoverageClass.java$"/>
+    </module>
+
     <module name="FileTabCharacter">
         <property name="eachLine" value="true"/>
     </module>

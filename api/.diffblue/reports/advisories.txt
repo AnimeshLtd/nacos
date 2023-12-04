@@ -1,0 +1,67 @@
+[WARN] E011: Failed to run a simple example test
+Diffblue Cover tried to run a simple example test to help identify the
+correct project configuration, but the test failed to execute when running
+Maven.
+The failed task is:
+  check
+The error is:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution
+Error output:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution: There are 6 errors reported by Checkstyle 8.29 with style/NacosCheckStyle.xml ruleset.
+[WARN] Test execution                                              WARNING        
+[WARN] Environment check status: WARNING
+[WARN] E011: Failed to run a simple example test
+Diffblue Cover tried to run a simple example test to help identify the
+correct project configuration, but the test failed to execute when running
+Maven.
+The failed task is:
+  check
+The error is:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution
+Error output:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution: There are 6 errors reported by Checkstyle 8.29 with style/NacosCheckStyle.xml ruleset.
+[WARN] Test execution                                              WARNING        
+[WARN] Environment check status: WARNING
+[WARN] E011: Failed to run a simple example test
+Diffblue Cover tried to run a simple example test to help identify the
+correct project configuration, but the test failed to execute when running
+Maven.
+The failed task is:
+  check
+The error is:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution
+Error output:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution: There are 6 errors reported by Checkstyle 8.29 with style/NacosCheckStyle.xml ruleset.
+[WARN] Test execution                                              WARNING        
+[WARN] Environment check status: WARNING
+[WARN] E117: JaCoCo coverage task failed
+Diffblue Cover tried to generate JaCoCo coverage for a simple
+example class to help it identify the right project configuration,
+but the task failed to execute.
+[WARN] JaCoCo execution                                            WARNING        
+[WARN] Environment check status: WARNING
+[WARN] E117: JaCoCo coverage task failed
+Diffblue Cover tried to generate JaCoCo coverage for a simple
+example class to help it identify the right project configuration,
+but the task failed to execute.
+[WARN] JaCoCo execution                                            WARNING        
+[WARN] Environment check status: WARNING
+[WARN] E011: Failed to run a simple example test
+Diffblue Cover tried to run a simple example test to help identify the
+correct project configuration, but the test failed to execute when running
+Maven.
+The failed task is:
+  check
+The error is:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution
+Error output:
+  Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.1.2:check (validate) on project nacos-api: Failed during checkstyle execution: There are 6 errors reported by Checkstyle 8.29 with style/NacosCheckStyle.xml ruleset.
+[WARN] Test execution                                              WARNING        
+[WARN] Environment check status: WARNING
+[ERROR] E096: Required file missing for upload
+The file mentioned below was missing when uploading to Diffblue Cover Reports.
+/Users/amishra/Developer/Jumpstart/nacos/api/.diffblue/reports/manual-tests-jacoco-report.xml
+This is because the coverage reports haven't been generated while creating
+tests or were moved to a different location after test creation.
+See https://docs.diffblue.com/knowledge-base/cli/working-with-cover-reports/
+for more information.
